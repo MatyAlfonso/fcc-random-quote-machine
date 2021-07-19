@@ -1,0 +1,23 @@
+.content__quote{
+    margin: 10%;
+}
+
+.content__author{
+    margin: 5%;
+}
+
+.content__btn{
+    padding: 2%;
+    margin: 2%;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    &:hover{
+        cursor: pointer;
+    }
+}
+
+.content__wrapper-btn{
+    display: flex;
+    flex-direction: column;
+}
